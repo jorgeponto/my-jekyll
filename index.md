@@ -15,4 +15,4 @@ conteúdo:
 
 <hr>
 
-&copyright; 2023
+&copy; 2023
