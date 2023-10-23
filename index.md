@@ -8,3 +8,7 @@ Seja bem-vindo à minha página
 
 - Nasci a - {{ date }}
 - Escrevi esta página quando tinha - {{ date | timeago }}
+
+<hr>
+
+&copyright; 2023
