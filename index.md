@@ -2,9 +2,9 @@
 ---
 ---
 
-Welcome to My Home Page
+Seja bem-vindo à minha página
 
-{% assign date = '2020-04-13T10:20:00Z' %}
+{% assign date = '1968-06-19T20:00:00Z' %}
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+- Nasci a - {{ date }}
+- Escrevi esta página quando tinha - {{ date | timeago }}
