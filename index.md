@@ -1,5 +1,6 @@
 # index.md
 ---
+title: JF
 ---
 
 Seja bem-vindo à minha página
