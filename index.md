@@ -7,6 +7,7 @@ Seja bem-vindo à minha página
 conteúdo:
 
 - [abc](abc.md)
+- [chatwithselo](chat.html)
 
 {% assign date = '1968-06-19T20:00:00Z' %}
 
